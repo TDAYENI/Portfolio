@@ -44,10 +44,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tdayeni.github.io/Portfolio/post/chapter-4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tdayeni.github.io/Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -57,6 +53,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tdayeni.github.io/Portfolio/post/gis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/post/visualisation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
