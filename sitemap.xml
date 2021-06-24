@@ -2,33 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tdayeni.github.io/Portfolio/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tdayeni.github.io/Portfolio/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tdayeni.github.io/Portfolio/post/data-science-tutorials/</loc>
-    <lastmod>1970-01-01T00:33:41+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tdayeni.github.io/Portfolio/tags/scene/</loc>
-    <lastmod>1970-01-01T00:33:41+00:00</lastmod>
+    <lastmod>2021-06-12T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tdayeni.github.io/Portfolio/post/spatial-econometrics-r/</loc>
-    <lastmod>1970-01-01T00:33:41+00:00</lastmod>
+    <lastmod>2021-06-12T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tdayeni.github.io/Portfolio/tags/</loc>
-    <lastmod>1970-01-01T00:33:41+00:00</lastmod>
+    <lastmod>2021-06-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/</loc>
+    <lastmod>2021-06-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/post/flood-emergency-planning-software/</loc>
+    <lastmod>2021-06-10T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/post/data-science-tutorials/</loc>
+    <lastmod>2021-05-29T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/post/gis/</loc>
+    <lastmod>2021-05-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tdayeni.github.io/Portfolio/post/</loc>
+    <lastmod>2021-05-12T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -45,14 +55,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tdayeni.github.io/Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tdayeni.github.io/Portfolio/post/flood-emergency-planning-software/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tdayeni.github.io/Portfolio/post/gis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
